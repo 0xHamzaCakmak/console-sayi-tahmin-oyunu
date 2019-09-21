@@ -1,0 +1,11 @@
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\netcoreapp2.1\Sayı tahmin oyunu.deps.json
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\netcoreapp2.1\Sayı tahmin oyunu.runtimeconfig.json
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\netcoreapp2.1\Sayı tahmin oyunu.runtimeconfig.dev.json
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\netcoreapp2.1\Sayı tahmin oyunu.dll
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\bin\Debug\netcoreapp2.1\Sayı tahmin oyunu.pdb
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.AssemblyInfoInputs.cache
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.AssemblyInfo.cs
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.dll
+C:\Users\reela\source\repos\Sayı tahmin oyunu\Sayı tahmin oyunu\obj\Debug\netcoreapp2.1\Sayı tahmin oyunu.pdb
